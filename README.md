@@ -16,7 +16,6 @@ Also, I am crazy about developing something new!
 - 💻 I work using in backend part: 
 
 - ⚙️ I work with databases: 
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-064F8C?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-107C10?style=flat-square&logo=MongoDB)
@@ -25,9 +24,6 @@ Also, I am crazy about developing something new!
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 
 - 📚 I use this tools:
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![Bash](https://img.shields.io/badge/-Bash-283037?style=flat-square&logo=GNU%20Bash)
 ![Docker](https://img.shields.io/badge/-Docker-0B2C4A?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-002050?style=flat-square&logo=Kubernetes)
@@ -35,7 +31,6 @@ Also, I am crazy about developing something new!
 ![SonarQube](https://img.shields.io/badge/-SonarQube-004880?style=flat-square&logo=SonarQube)
 
 - :bulb: I use this clouds:
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
