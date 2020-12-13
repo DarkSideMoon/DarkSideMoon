@@ -44,9 +44,8 @@ Also, I am crazy about developing something new!
 ## ⚡ My slogan
 ### Сode better than yesterday, express yourself!
 
-## 🍕 You can bu my pizza	
-If you find that my projects, articles interesting or have helped you, I would very much appreciate it if you would by my pizza
-<a href="https://www.buymeacoffee.com/DarkSideMoon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 20px !important;width: 100px !important;" ></a>
+## 🍕 You can buy my pizza	
+If you find that my projects, articles interesting or have helped you, I would very much appreciate it if you would [buy my pizza](https://www.buymeacoffee.com/DarkSideMoon)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
