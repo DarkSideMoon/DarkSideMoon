@@ -48,7 +48,7 @@ I am Romashchenko Pavlo and I am Software Engineer <img src="https://media.giphy
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSideMoon&layout=compact)](https://github.com/DarkSideMoon/)
 
 ## ⚡ My slogan
-### Сode better than yesterday, express yourself!
+### Develop better than yesterday, express yourself!
 
 ## 🍕 You can buy my pizza	
 If you find that my projects, articles interesting or have helped you, I would very much appreciate it if you would buy my a pizza
