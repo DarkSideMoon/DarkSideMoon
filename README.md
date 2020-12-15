@@ -2,8 +2,12 @@
 
 Welcome to my page!
 </br>
-I am Romashchenko Pavel and I am Software Engineer. I am living in <b>Kyiv, Ukraine.</b>
-Also, I am crazy about developing something new!
+I am Romashchenko Pavlo and I am Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . I am living in <b>Kyiv, Ukraine.</b>
+
+- 🌱 I’m currently learning a lot of interesting technologies
+- 💬 Ask me about C#, .Net
+- 📫 How to reach me: 
+- ⚡ Fun fact: I am crazy about developing something new!
 
 ## 🔧 Technologies & Tools
 - 🚀 I use daily:
@@ -30,6 +34,8 @@ Also, I am crazy about developing something new!
 ![SonarQube](https://img.shields.io/badge/-SonarQube-004880?style=flat-square&logo=SonarQube)
 ![Swagger](https://img.shields.io/badge/-Swagger-107C10?style=flat-square&logo=Swagger)
 ![JFrog](https://img.shields.io/badge/-JFrog-004880?style=flat-square&logo=JFrog)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
 
 - :bulb: I use this clouds:
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
@@ -58,4 +64,11 @@ If you find that my projects, articles interesting or have helped you, I would v
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 📗 Latest Blog Posts
+- []()
+- []()
+
+➡️ [more blog posts...]()
+
 -->
