@@ -6,7 +6,8 @@ I am Romashchenko Pavlo and I am Software Engineer <img src="https://media.giphy
 
 - 🌱 I’m currently learning a lot of interesting technologies
 - 💬 Ask me about C#, .Net
-- 📫 How to reach me: [@PRomashchenko](https://twitter.com/PRomashchenko)
+- 📫 How to reach me: <a target="_blank" href="https://twitter.com/PRomashchenko"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:16blackwood16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 - ⚡ Fun fact: I am crazy about developing something new!
 
 ## 🔧 Technologies & Tools
