@@ -50,6 +50,7 @@ I am Romashchenko Pavlo and I am Software Engineer <img src="https://media.giphy
 
 ## ⚡ My slogan
 ### Develop better than yesterday, express yourself!
+#### Mastery comes to those who undertake continuous and unwavering practise. Shortcuts will get you nowhere. - Morihei Ueshiba
 
 ## 🍕 You can buy my pizza	
 If you find that my projects, articles interesting or have helped you, I would very much appreciate it if you would buy my a pizza
