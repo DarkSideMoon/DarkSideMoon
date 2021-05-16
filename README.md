@@ -2,13 +2,13 @@
 
 Welcome to my page!
 </br>
-I am Romashchenko Pavlo and I am Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . I am living in <b>Kyiv, Ukraine.</b>
+I am Pavlo, Software Engineer from  <b>Kyiv, Ukraine.</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> . 
 
 - 🌱 I’m currently learning a lot of interesting technologies
 - 💬 Ask me about C#, .Net
-- 📫 How to reach me: <a target="_blank" href="https://twitter.com/PRomashchenko"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+- 📫 How to reach me and ask question: <a target="_blank" href="https://twitter.com/PRomashchenko"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="mailto:16blackwood16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-- ⚡ Fun fact: I am crazy about developing something new!
+- ⚡ Fun fact: I am crazy about developing something new and cats!
 
 ## 🔧 Technologies & Tools
 - 🚀 I use daily:
@@ -50,7 +50,13 @@ I am Romashchenko Pavlo and I am Software Engineer <img src="https://media.giphy
 
 ## ⚡ My slogan
 ### Develop better than yesterday, express yourself!
-#### Mastery comes to those who undertake continuous and unwavering practise. Shortcuts will get you nowhere. - Morihei Ueshiba
+Mastery comes to those who undertake continuous and unwavering practise. Shortcuts will get you nowhere. - Morihei Ueshiba
+
+## :mag_right: Where to find me
+
+<a href="https://twitter.com/PRomashchenko" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@promashchenko" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/promashchenko" target="_blank"><img alt="Pavlo Romashchenko's DEV Community Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to" /></a>
 
 ## 🍕 You can buy my pizza	
 If you find that my projects, articles interesting or have helped you, I would very much appreciate it if you would buy my a pizza
@@ -67,7 +73,11 @@ If you find that my projects, articles interesting or have helped you, I would v
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### 📗 Latest Blog Posts
+<a href="https://github.com/DarkSideMoon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/pavelromashchenko" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+
+## 📗 Latest Blog Posts
 - []()
 - []()
 
