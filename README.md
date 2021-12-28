@@ -58,8 +58,8 @@ Mastery comes to those who undertake continuous and unwavering practise. Shortcu
 <a href="https://twitter.com/PRomashchenko" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://medium.com/@promashchenko" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/promashchenko" target="_blank"><img alt="Pavlo Romashchenko's DEV Community Profile" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to" /></a>
-<a href="https://stackoverflow.com/users/3520507/darksidemoon" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 <a href="https://www.slideshare.net/PashaRomashenko" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/SlideShare-%231DA1F2.svg?&style=for-the-badge&logo=slideshare&logoColor=white&color=008ED2" /></a>
+<a href="https://stackoverflow.com/users/3520507/darksidemoon" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 
 ## 🍕 You can buy my pizza	
 If you find that my projects, articles interesting or have helped you, I would very much appreciate it if you would buy my a pizza
