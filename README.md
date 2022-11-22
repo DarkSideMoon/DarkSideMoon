@@ -47,6 +47,7 @@ I am Pavlo, Software Engineer from  <b>Kyiv, Ukraine.</b> <img src="https://medi
 ## :chart_with_upwards_trend: GitHub Stats
 [![DarkSideMoon's github stats](https://github-readme-stats.vercel.app/api?username=DarkSideMoon)](https://github.com/DarkSideMoon/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkSideMoon&layout=compact)](https://github.com/DarkSideMoon/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarkSideMoon)](https://git.io/streak-stats)
 
 ## ⚡ My slogan
 ### Develop better than yesterday, express yourself!
